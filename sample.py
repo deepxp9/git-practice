@@ -4,5 +4,9 @@ def addition(a,b):
 def subtraction(a,b):
     return a-b
 
-print(subtraction(30,10))
+def multiplication(a,b):
+    return a*b
+
 print(addition(10,20))
+print(subtraction(30,10))
+print(multiplication(10,20))
